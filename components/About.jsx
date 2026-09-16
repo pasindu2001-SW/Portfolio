@@ -35,8 +35,7 @@ const About = ({isDarkMode}) => {
             transition={{ duration: 0.6, delay: 0.8}}
              className='flex-1'>
                 <p className='mb-10 max-w-2xl font-ovo'>
-                    I am an undergraduate student pursuing a BSc (Hons) in Software Engineering at SLTC Research University. I have mostly worked with JavaScript,
-                     and I also possess knowledge in web development, UI/UX design, database management, and various frameworks.
+                    I am an undergraduate student pursuing a BSc (Hons) in Software Engineering at SLTC Research University with hands-on experience gained through a 6-month full-stack internship. I specialize in React, Node.js, Express, and MongoDB, with practical experience building complex web applications.
                 </p>
 
                 <motion.ul
